@@ -29,6 +29,7 @@ Here are some of the projects I've worked on:
 ## 📫 How to Reach Me
 
 - LinkedIn: https://www.linkedin.com/in/ssemugabi-james-5b1a44247/
+- Twitter:@SsemugabiJames1
 - Email: semugabijamws1223@gmail
 
 Feel free to reach out if you want to collaborate, have any questions, or just want to say hello!
