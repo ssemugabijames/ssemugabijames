@@ -1,4 +1,4 @@
-# Hi there, I'm Ssemugabi James 👋
+# Hi there, I'm James 👋
 
 I'm a passionate React developer with a keen interest in building user-friendly and efficient web applications. With a strong foundation in JavaScript and a knack for creating responsive UIs, I love bringing ideas to life through clean and maintainable code. I have extensive experience working both alone  and part of the team on oftentime -sensitive , Challenging web development projects that require outStanding  creative and techinical  capabilities and the ability to ensure that all work is optimized across a wide range of platfoms. Let's work together to bring your ideas to life.
 
