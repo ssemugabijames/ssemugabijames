@@ -10,7 +10,7 @@ I'm a passionate React developer with a keen interest in building user-friendly 
 
 ## 🔧 Skills
 
-- React.js, Redux, Context API
+- React.js, Redux, Context API,java,ReactNative 
 - JavaScript, ES6+
 - HTML5, CSS3, SASS/SCSS
 - Responsive Web Design
